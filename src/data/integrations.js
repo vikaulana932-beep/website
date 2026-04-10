@@ -203,6 +203,7 @@ export default [
         title: "Jikan_moe",
         language: "rust",
         supportsV3: false,
+        
         supportsV4: true,
         url: "https://github.com/Sidharth-Singh10/jikan_moe",
     },
